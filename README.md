@@ -1,1 +1,1 @@
-# Data Bases Guide
+# Databases Guide
